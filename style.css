@@ -284,7 +284,7 @@ button { cursor: pointer; }
   .library-content { max-width: 650px; }
   .library-images { max-width: 700px; width: 100%; }
   .contact-info { max-width: 650px; }
-  .footer-main { grid-template-columns: 1.4fr 1fr 1fr; }
+  .footer-main { grid-template-columns: 1.4fr 1fr 1fr;}
   .footer-links:last-child { grid-column: 2 / 4; }
 }
 @media (max-width: 600px) {
