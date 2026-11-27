@@ -43,7 +43,6 @@ const branchContent = {
     careers: "Potential pathways include production or maintenance technician, manufacturing support, quality inspection, CAD drafting and further study in mechanical engineering."
   }
 };
-
 const menuToggle = document.querySelector(".menu-toggle");
 const nav = document.querySelector(".main-nav");
 
